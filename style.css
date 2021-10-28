@@ -1,0 +1,40 @@
+h1, h2 {
+  font-family: Lato;
+}
+.btn{
+  text-decoration: double;
+  padding: 10px;
+  border: 2px solid gray;
+  margin: 1px;
+  border-radius: 10px;
+  border-style: hidden;
+  background-color:rgb(222, 243, 243);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large; 
+  -webkit-text-fill-color: blue;
+}
+.btn:hover{
+  background-color:transparent;
+  border-style:solid;
+  border-color: lime;
+}
+.nav{
+ margin: 0px;
+ padding: 0px;
+}
+.nav ul{
+  margin: 0%;
+  padding: 10px;
+  margin-left: 1px;
+
+}
+.nav ul ol{
+  margin:0px;
+  margin-right:0px ;
+  padding:0px;
+  margin-left:0px;
+  right: 0px;
+}
+.nav ul ol a{
+  text-decoration: none;
+}
