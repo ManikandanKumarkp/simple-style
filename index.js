@@ -6,6 +6,6 @@ const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 const myappDiv=document.getElementById('myapp');
-myappDiv.inputMode=``;
+myappDiv.innerText;
 
 
